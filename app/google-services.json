@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218778159539",
+    "firebase_url": "https://diagtur-372e2.firebaseio.com",
+    "project_id": "diagtur-372e2",
+    "storage_bucket": "diagtur-372e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218778159539:android:503985e09b4466ef",
+        "android_client_info": {
+          "package_name": "br.edu.ifce.diagtur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218778159539-8tpior421h29edeiacr7s1j1gc6gmi8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifce.diagtur",
+            "certificate_hash": "25ad14cfc1c5e400fd66f0baa2d2605a978648dd"
+          }
+        },
+        {
+          "client_id": "218778159539-huo20uqgkbot1j4dsc4h0ugfsq6u4t9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75KAhg23l6f_tYJzd1wtQ2qmz4GVi3uY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218778159539-huo20uqgkbot1j4dsc4h0ugfsq6u4t9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
